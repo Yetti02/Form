@@ -1,9 +1,8 @@
 
-
 import Formcomponent from './components/Formcomponent';  
 
 const App = () => {  
-    return (  
+    return (
         <div>  
             <Formcomponent />  
         </div>  
@@ -11,4 +10,6 @@ const App = () => {
 };  
 
 export default App;  
+
+ 
 
